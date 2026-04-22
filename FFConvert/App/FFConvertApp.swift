@@ -2,7 +2,7 @@
 //  FFConvertApp.swift
 //  FFConvert
 //
-//  Created by Samuel Ray on 3/31/26.
+//  Created by Samuel Ray.
 //
 
 import SwiftUI
